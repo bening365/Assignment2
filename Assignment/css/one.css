@@ -1,0 +1,169 @@
+
+body {
+  font-family:'Dosis', sans-serif;
+}
+
+.container {
+    position: relative;
+    top: 37%;
+    left: 550px;
+    transform: translate(-54%, 0%);
+
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-size: 64px;
+  font-weight: bold; 
+  color: white;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+
+}
+
+.get{
+font-size: 30px;
+
+}
+
+.now{
+  background-color: lightgrey;
+  padding: 11px;
+  text-align: center;
+margin-right:166px;
+margin-left:157px;
+}
+
+.second{
+    position: relative;
+  text-align: center;
+  color: black;
+  width: 30%;
+  padding-right: 70%;
+  background-color: lightgrey;
+}
+
+.benefit{
+    text-align: left;
+    padding: 24px;
+    padding-right: 35px;
+
+}
+div .benefit{
+    margin-right: -230%;
+    margin-top: -150px;
+}
+
+.benefit {
+  font-weight: bold; 
+  font-size: 30px;
+}
+
+.description {
+
+    text-align: left;
+ 
+}
+
+ul, li {
+    text-align: left;
+    
+}
+
+.water {
+    width: 100%;
+
+}
+
+.three {
+    position: relative;
+  text-align: center;
+    text-align: center;
+}
+
+.quote {
+    font-style: italic;
+    position: absolute;
+    top: 37%;
+    left: 502px;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.amanda{
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+    margin-top: 63px;
+}
+
+.four {
+    padding-left: 430px;
+    padding-bottom: 28px;
+    padding-top:13px;
+
+}
+
+.sign{
+    padding: 5px;
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+}
+
+.footer{
+    background-color: grey !important;
+    padding: 2px;
+    left: 50%;
+    margin-bottom: 17px;
+}
+
+.relaxrtwo{
+     color: yellow;
+     left:50%;
+     margin: 40px;
+     display: block;
+   margin-left: auto;
+   margin-right: auto;
+   padding-left:36%;
+   font-size: 64px;
+   font-weight: bold; 
+
+   
+
+}
+
+ .images{
+    left:50%;
+    margin: 30px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left:45%;
+}
+
+.twitter{
+    margin-right: 33px;
+    margin-left:-14px;
+}
+
+footer{
+    left:50%;
+    margin: 40px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left:42%;
+  padding-top:150px;
+
+}
